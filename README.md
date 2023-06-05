@@ -9,10 +9,10 @@ Design the user interface: Create a simple and intuitive user interface using St
 - PIL
 - Sqlite3
 
-Implement the image processing and OCR:Use EasyOCR to extract the relevant information from the uploaded business card image use image processing techniques like resizing, cropping, and thresholding to enhance the image quality before passing it to the OCR engine
+Implement the image processing and OCR: Use EasyOCR to extract the relevant information from the uploaded business card image use image processing techniques like resizing, cropping, and thresholding to enhance the image quality before passing it to the OCR engine
 
-Display the extracted information:Once the information has been extracted, display it in a clean and organized manner in the Streamlit GUI
+Display the extracted information: Once the information has been extracted, display it in a clean and organized manner in the Streamlit GUI
 
-Implement database integration:Use a database management system like MySQL to store the extracted information along with the uploaded business card image use SQL queries to create tables, insert data, and retrieve data from the database, Update the data and Allow the user to delete the data through the streamlit UI
+Implement database integration: Use a database management system like MySQL to store the extracted information along with the uploaded business card image use SQL queries to create tables, insert data, and retrieve data from the database, Update the data and Allow the user to delete the data through the streamlit UI
 
-Streamlit app:http://localhost:8501/
+Streamlit app: http://localhost:8501/
