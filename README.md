@@ -4,6 +4,7 @@ Design the user interface: Create a simple and intuitive user interface using St
 
 ## Libraries used
 - Easyocr
+- Pandas
 - Streamlit
 - PIL
 - Sqlite3
